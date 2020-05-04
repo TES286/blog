@@ -3,6 +3,7 @@
 [http://file.tes286.top/python-3.8.2-embed-win32.zip](http://file.tes286.top/python-3.8.2-embed-win32.zip)
 ## 文件
 > 以下划线开头的会有404，建议下压缩包后解压
+
 http://file.tes286.top/python-3.8.2-embad-win32/LICENSE.txt
 
 http://file.tes286.top/python-3.8.2-embad-win32/_asyncio.pyd
